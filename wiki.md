@@ -1,20 +1,27 @@
-# Topic Title
-![](url for an image about your topic)
+# *Mahonia Aquifolium*
+
+***
+
+### **Oregon Grape / Holly-Leaved Barberry**
+
+![Mahonia Aquifolium flowering](../img/Mahonia-flower.JPEG)
+![Mahonia Aquifolium bearing fruit](../img/Mahonia-fruit.JPEG)
 
 A short description / abstract of the topic you choose. For the text here and below, feel free to use **bold** and *italic* fonts, [linked texts](url),  ![images](url), or any other element you think would be helpful for your audience to understand the topic.
 
 
-## Section 1
+## Region
 One or several paragraphs.
 
-## Section 2
+## Medicinal Use
 One or several paragraphs.
-### (Optional) Subsection 1
+### * Berries:
 One or several paragraphs.
-### (Optional) Subsection 2
+### * Leaves:
 One or several paragraphs.
+### * Roots:
 
-## Section 3
+## Care and Conservation
 One or several paragraphs for subsection 3.
 
 ## See also
@@ -22,7 +29,7 @@ One or several paragraphs for subsection 3.
 - [Resource 2](url)
 - [Resource 3](url)
 
-## References
+## References & Media
 1. Reference 1
 2. Reference 2
-3. Reference 3
+3. [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
