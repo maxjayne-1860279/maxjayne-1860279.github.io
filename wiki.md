@@ -1,11 +1,10 @@
 # *Mahonia Aquifolium*
+### **Oregon Grape / Holly-Leaved Barberry**
 
 ***
 
-### **Oregon Grape / Holly-Leaved Barberry**
-
-![Mahonia Aquifolium flowering](../img/Mahonia-flower.JPEG)
-![Mahonia Aquifolium bearing fruit](../img/Mahonia-fruit.JPEG)
+![Mahonia Aquifolium flowering](img/Mahonia-flower.JPEG)
+![Mahonia Aquifolium bearing fruit](img/Mahonia-fruit.JPEG)
 
 A short description / abstract of the topic you choose. For the text here and below, feel free to use **bold** and *italic* fonts, [linked texts](url),  ![images](url), or any other element you think would be helpful for your audience to understand the topic.
 
