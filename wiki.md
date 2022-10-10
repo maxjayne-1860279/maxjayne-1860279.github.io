@@ -5,14 +5,14 @@
 
 *Mahonia Aquifolium* also known as Oregon Grape or Holly-Leaved Barberry, is a small flowering and fruit bearing shrub native to the Western region of North America. Oregon Grape can grow to be up to three meters tall (about 10 ft) and 1.5 meters wide (about 5 ft) and features barbed green and burgundy leaves. Oregon grape produces bright yellow flowers clumped together, that develop into small berries. Though the berries produced are small blue or purple berries similar to grapes, the plant is not related to the grape family of plants. Oregon Grape is recognized as the state flower of Oregon.
 
-![Mahonia Aquifolium flowering](/img/Mahonia-flower.jpg "*Mahonia Aquifolium* flowers"){ width=200px,height:150px }
-![Mahonia Aquifolium bearing fruit](/img/Mahonia-fruit.jpg "*Mahonia Aquifolium* berries"){ width=200px,height:150px }
+![Mahonia Aquifolium flowering](/img/Mahonia-flower.jpg "*Mahonia Aquifolium* flowers")
+![Mahonia Aquifolium bearing fruit](/img/Mahonia-fruit.jpg "*Mahonia Aquifolium* berries")
 
 ## Habitat
-*Mahonia Aquifolium is native to the Western region of North America. It's native territory extends from Alberta Canada, down to central New Mexico. Oregon Grape generally likes shady understory areas, and can most commonly be found in Douglas Fir forests. The plant is resistant to drought and can grow in poor quality soils, making it a hardy species.
+*Mahonia Aquifolium* is native to the Western region of North America. It's native territory extends from Alberta Canada, down to central New Mexico. Oregon Grape generally likes shady understory areas, and can most commonly be found in Douglas Fir forests. The plant is resistant to drought and can grow in poor quality soils, making it a hardy species.
 
 ## Medicinal Use
-*Mahonia Aquifolium has a long history of usage, most notably by Pacific Northwest Indigenous tribes and in Traditional Chinese medicine:
+*Mahonia Aquifolium* has a long history of usage, most notably by Pacific Northwest Indigenous tribes and in Traditional Chinese medicine:
 
 * ### Berries:
 The berries produced by *Mahonia Aquifolium* are edible raw, offering a tart flavor. The berries can also be processed to make wine. Indigenous Pacific Northwest people's used the berries mixed with other fruits or salal, another plant, as part of their diets.
