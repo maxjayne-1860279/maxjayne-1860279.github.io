@@ -3,8 +3,8 @@
 
 ***
 
-![Mahonia Aquifolium flowering](img/Mahonia-flower.JPEG)
-![Mahonia Aquifolium bearing fruit](img/Mahonia-fruit.JPEG)
+![Mahonia Aquifolium flowering](/img/Mahonia-flower.jpg "*Mahonia Aquifolium* flowers")
+![Mahonia Aquifolium bearing fruit](/img/Mahonia-fruit.jpg "*Mahonia Aquifolium* berries")
 
 *Mahonia Aquifolium* also known as Oregon Grape or Holly-Leaved Barberry, is a small flowering and fruit bearing shrub native to the Western region of North America. Oregon Grape can grow to be up to three meters tall (about 10 ft) and 1.5 meters wide (about 5 ft) and features barbed green and burgundy leaves. Oregon grape produces bright yellow flowers clumped together, that develop into small berries. Though the berries produced are small blue or purple berries similar to grapes, the plant is not related to the grape family of plants. Oregon Grape is recognized as the state flower of Oregon.
 
@@ -15,15 +15,15 @@
 ## Medicinal Use
 *Mahonia Aquifolium has a long history of usage, most notably by Pacific Northwest Indigenous tribes and in Traditional Chinese medicine:
 
-### * Berries:
+### - Berries:
 The berries produced by *Mahonia Aquifolium* are edible raw, offering a tart flavor. The berries can also be processed to make wine. Indigenous Pacific Northwest people's used the berries mixed with other fruits or salal, another plant, as part of their diets.
 The berries can also be used to make dye. Due to a naturally occuring ph reactive compound in the berries, the dye will be either purple, pink, blue, or green depending on the ph balance of the water used to mix the dye.
 
-### * Leaves:
+### - Leaves:
 Though barbed, the newly grown leaves of *Mahonia Aquifolium* are edible when still soft and light pea green, offering a bitter flavor. The leaves can also be distilled into tea.
 
-### * Stems & Roots:
-The stems and roots of *Mahonia Aquifolium contain a natural compound known as berberine, which has anti-microbial and anti-inflammatory applications. Most notably, it can be used to treat stomach issues and similar. Pacific Northwest Indigenous tribes have long used Oregon Grape to treat stomach problems, arthritis, and other health conditions. Many topically applied products are likewise made using the berberine present in the Oregon Grape.
+### - Stems & Roots:
+The stems and roots of *Mahonia Aquifolium* contain a natural compound known as berberine, which has anti-microbial and anti-inflammatory applications. Most notably, it can be used to treat stomach issues and similar. Pacific Northwest Indigenous tribes have long used Oregon Grape to treat stomach problems, arthritis, and other health conditions. Many topically applied products are likewise made using the berberine present in the Oregon Grape.
 The bark found within the stems and roots of *Mahonia Aquifolium* can be used as a yellow die.
 
 ## Care and Conservation
